@@ -7,7 +7,7 @@
         <item>Bottom</item>
     </string-array>
     <string name="app_name">JARVIS</string>
-    <string name="jarvis_title">JARVIS</string>
+  <string name="jarvis_title">JARVIS</string>
 
     <string name="state_idle">IDLE</string>
     <string name="state_listening">LISTENING</string>
